@@ -20,7 +20,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{ article.title }}</h5>
                                 <div class="card-text">
-                                    <p>{{ article.content|striptags }}</p>
+                                    <p>{{ article.content|striptags|u.truncate(200, '...') }}</p>
                                 </div>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <a href="{{ path('default_article', { 'categorie' : article.category.alias, 'alias' : article.alias, 'id' : article.id }) }}" class="btn btn-primary">Lire la suite</a>
