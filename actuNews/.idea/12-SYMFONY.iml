@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/actuNews/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/actuNews/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/doctrine-migrations-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/event-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/migrations" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/persistence" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/doctrine/reflection" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/easycorp/easy-log-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/ocramius/package-versions" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/ocramius/proxy-manager" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/debug-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/debug-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/doctrine-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/maker-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/orm-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/profiler-pack" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/stopwatch" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/twig-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/web-profiler-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/twig/twig" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/zendframework/zend-code" />
+      <excludeFolder url="file://$MODULE_DIR$/actuNews/vendor/zendframework/zend-eventmanager" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
